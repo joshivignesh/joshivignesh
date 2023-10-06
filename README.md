@@ -33,7 +33,7 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="[https://github.com/joshivignesh/Twitter-Clone](https://github.com/joshivignesh/blue-bird)"><b>Twitter Clone Project</b></a></td>
+	    <td><a href="https://github.com/joshivignesh/blue-bird"><b>Twitter Clone Project</b></a></td>
     </tr>
 	  
   </tbody>
