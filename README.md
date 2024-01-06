@@ -2,6 +2,8 @@
 
 
 <p>Welcome to my page! </br> I'm Vignesh, Fullstack developer from <b>India, Chennai</b>. </p>
+<p>[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshivignesh)](https://github.com/joshivignesh/github-readme-stats)</p>
+
 <h3>Things I code with</h3>
 <p>
    <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
