@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vignesh Joshi, <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>nice to see you.</h1>
-<h3 align="center">Iam a .NET Full stack Developer, technology enthusiast and started cooking</h3>
+<h3 align="center">Iam a .NET Full stack Developer, technology enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshivignesh&label=Profile%20views&color=0e75b6&style=flat" alt="joshivignesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshivignesh" alt="joshivignesh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshivignesh&theme=onedark" alt="joshivignesh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@vigneshjoshi" target="blank"><img src="https://img.shields.io/twitter/follow/vigneshjoshi?logo=twitter&style=for-the-badge" alt="@vigneshjoshi" /></a> </p>
 
