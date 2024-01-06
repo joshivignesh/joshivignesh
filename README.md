@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/@vigneshjoshi" target="blank"><img src="https://img.shields.io/twitter/follow/vigneshjoshi?logo=twitter&style=for-the-badge" alt="@vigneshjoshi" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/joshivignesh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joshivignesh" /></a> </p>
+
+
+
 - 🔭 I’m currently working on [CarDeals](https://github.com/joshivignesh/CarDeals)
 
 - 👨‍💻 All of my projects are available at [https://github.com/joshivignesh](https://github.com/joshivignesh)
