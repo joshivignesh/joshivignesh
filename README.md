@@ -11,8 +11,6 @@
 
 
 
-- 🔭 I’m currently working on ([TaskCreate](https://taskcreate.netlify.app/))
-
 - 👨‍💻 All of my projects are available at [https://github.com/joshivignesh](https://github.com/joshivignesh)
 
 - 📫 How to reach me **joshi.vignesh@gmail.com**
